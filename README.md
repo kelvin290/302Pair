@@ -11,7 +11,6 @@ For the automatic test, we used Katolon Recorder.
 1. Download Katonlon on google chrome 
 Link: https://chrome.google.com/webstore/detail/katalon-recorder/ljdobmomdgdljniojadhoplhkpialdid?hl=zh-TW
 2. Import the TestCase.html
-
 3.Run the test.
 
 
